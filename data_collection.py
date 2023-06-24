@@ -2,8 +2,6 @@
 """
 Created on Thu Apr  2 11:47:44 2020
 
-@author: Ken
-"""
 
 import glassdoor_scraper as gs 
 import pandas as pd 
